@@ -1,6 +1,10 @@
 # TestCase20241111
 
+[Screenshot](https://github.com/mizuhomizuho/test-case-20241111/tree/master/screenshot20241111.png)
+
 ## 1. Есть таблица Users (тестирование на знание SQL)
+
+[users.sql.join](https://github.com/mizuhomizuho/test-case-20241111/tree/master/components/testCase20241111/users.sql.join)
 
 ## 2. Выберите правильный вариант А или В. И напишите его преимущество.
 
@@ -15,4 +19,13 @@
 
 ## 3. Выводить всех пользователей на страницу из группы Администратор
 
+[admin.users](https://github.com/mizuhomizuho/test-case-20241111/tree/master/components/testCase20241111/admin.users)
 
+## 4. Выводить список товаров из любого раздела
+
+[section.items](https://github.com/mizuhomizuho/test-case-20241111/tree/master/components/testCase20241111/section.items)
+
+## 5. Написать форму обратной связи
+
+Все заявленные функции уже реализованны в стандартном функционале Bitrix.
+В данном случае правильнее будет вести речь о кастомизации шаблона, если она потребуется.
