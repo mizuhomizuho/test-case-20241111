@@ -12,8 +12,6 @@ Loader::includeModule('iblock');
 
 class Component extends \CBitrixComponent
 {
-    private const NEED_GROUP_ID = 1;
-
     public function executeComponent(): void
     {
         if ($this->startResultCache()) {
